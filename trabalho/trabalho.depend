@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1761708671 source:c:\users\nathan2\desktop\trabalho\main.c
-	"contreflib.h"
-
-1761708471 c:\users\nathan2\desktop\trabalho\contreflib.h
-	<stdio.h>
-	<stdlib.h>
-
